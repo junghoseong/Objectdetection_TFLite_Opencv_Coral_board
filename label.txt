@@ -1,2 +1,0 @@
-0  available
-1  unavailable

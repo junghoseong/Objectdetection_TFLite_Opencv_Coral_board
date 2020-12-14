@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R_995.jpg</filename>
+	<path>C:\Users\1Key\Desktop\PET\R\R_995.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>available</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>22</ymin>
+			<xmax>139</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

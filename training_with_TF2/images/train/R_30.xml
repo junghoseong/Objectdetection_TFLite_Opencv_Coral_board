@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R_30.jpg</filename>
+	<path>C:\Users\1Key\Desktop\PET\R\R_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>245</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>available</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>34</ymin>
+			<xmax>191</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

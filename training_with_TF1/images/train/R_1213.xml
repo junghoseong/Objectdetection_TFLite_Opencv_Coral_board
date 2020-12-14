@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R_1213.jpg</filename>
+	<path>C:\Users\1Key\Desktop\PET\R\R_1213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>286</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>available</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>69</ymin>
+			<xmax>154</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

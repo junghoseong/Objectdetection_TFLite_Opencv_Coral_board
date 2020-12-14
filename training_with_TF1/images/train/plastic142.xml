@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic</folder>
+	<filename>plastic142.jpg</filename>
+	<path>C:\Users\1Key\Desktop\PET\plastic\plastic142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>available</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>6</ymin>
+			<xmax>341</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

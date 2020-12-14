@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic_transparent</folder>
+	<filename>plastic_transparent_42.jpg</filename>
+	<path>C:\Users\1Key\Desktop\PET\plastic_transparent\plastic_transparent_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>212</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>available</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>21</ymin>
+			<xmax>164</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>
